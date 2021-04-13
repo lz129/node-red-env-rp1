@@ -1,0 +1,1 @@
+[{"id":"53a07c6d.3bc5ac","type":"function","z":"41bc2793.9d2ac","name":"abc","func":"\nreturn msg;","outputs":3,"noerr":0,"initialize":"","finalize":"// Code added here will be run when the\n// node is being stopped or re-deployed.\nlet a = b","libs":[],"x":330,"y":360,"wires":[[],[],[]]}]
